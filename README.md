@@ -8,9 +8,24 @@ Welcome to the "DSA & OOP in Python" repository! Here, you'll find Python code e
 - [Object-Oriented Programming](#object-oriented-programming)
 
 ## Data Structures
+Data Structure is a way to store and organize data efficiently.
+DS has two categories, Linear and non-linear
+
+### Linear
+- Array
+- LinkedList
+- Stacks
+- Queues
+- Hashing
+  
+### Non-Linear
+- Tree
+- Graph
+
 Explore various data structures implemented in Python, such as lists, stacks, queues, trees, graphs, and more.
 
 ## Algorithms
+An algorithm is a set of commands that must be followed for a computer to perform calculations or other problem-solving operations.
 Discover Python implementations of popular algorithms for sorting, searching, dynamic programming, and other problem-solving techniques.
 
 ## Object-Oriented Programming
